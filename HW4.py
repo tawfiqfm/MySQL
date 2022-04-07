@@ -48,8 +48,8 @@ def main():
     db = mysql.connect(
         host="localhost",
         database="company",
-        user="fmoham3",
-        passwd="f123",
+        user="*******",
+        passwd="****",
         auth_plugin='mysql_native_password'
     )
     print()
